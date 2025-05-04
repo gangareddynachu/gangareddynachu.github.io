@@ -10,7 +10,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('images/ProjectImages/Gangareddy_Graduate.jpg');
+		$(".banner-image").backstretch('images/ProjectImages/NGR_bg2.jpg');
 		
 		// Fixed header
 		//-----------------------------------------------
