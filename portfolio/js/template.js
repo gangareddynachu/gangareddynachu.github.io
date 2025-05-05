@@ -10,7 +10,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('images/ProjectImages/Gangareddy_bg1.jpg');
+		$(".banner-image").backstretch('images/ProjectImages/NGR_banner.jpg');
 		
 		// Fixed header
 		//-----------------------------------------------
