@@ -10,7 +10,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('images/ProjectImages/NGR_banner.jpg');
+		$(".banner-image").backstretch('images/ProjectImages/NGR_banner.png');
 		
 		// Fixed header
 		//-----------------------------------------------
